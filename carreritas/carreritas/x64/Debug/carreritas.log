@@ -1,0 +1,4 @@
+﻿  carreritas.cpp
+C:\Users\victorceparm\OneDrive - Centre d'Estudis Monlau\Grado superior DAW\M5\HelloWorldC\carreritas\carreritas\carreritas.cpp(11,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\victorceparm\OneDrive - Centre d'Estudis Monlau\Grado superior DAW\M5\HelloWorldC\carreritas\carreritas\carreritas.cpp(27,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  carreritas.vcxproj -> C:\Users\victorceparm\OneDrive - Centre d'Estudis Monlau\Grado superior DAW\M5\HelloWorldC\carreritas\x64\Debug\carreritas.exe
